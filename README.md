@@ -1,5 +1,5 @@
 # RandomDicer
-A simple PHP app that rolls the dice for you.
+A simple PHP app that rolls dice for you.
 Check out [here](https://random-dicer.herokuapp.com/)
 
 #### Made with :
